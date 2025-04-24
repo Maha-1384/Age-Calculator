@@ -104,7 +104,7 @@ This project was developed as part of my internship at **CodeAlpha**. The main g
 For feedback, suggestions, or collaboration:
 
 - **GitHub**: [@Maha-1384](https://github.com/Maha-1384)
-- **Email** : [Dev Maha-Naz](maha.naz.dev@gmail.com)
+- **Email** : [Maha-Naz](maha.naz.dev@gmail.com)
 
 ---
 
