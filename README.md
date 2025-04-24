@@ -82,15 +82,6 @@ cd CodeAlpha_AgeCalculator
 # Open index.html in any browser
 ```
 
----
-
-## 📸 Screenshots
-
-![Screenshot](./screenshot.jpg)  
-*Feel free to replace this with an actual screenshot if available.*
-
----
-
 ## 🎯 Purpose
 
 This project was developed as part of my internship at **CodeAlpha**. The main goals were:
